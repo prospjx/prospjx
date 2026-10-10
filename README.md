@@ -30,6 +30,41 @@ A backend microservice project focused on PostgreSQL-driven application developm
 
 **Technologies:** PostgreSQL, backend development, microservices, Docker, service architecture
 
+### [course-api](https://github.com/prospjx/course-api)
+**Course Catalog Microservice**
+
+A FastAPI and PostgreSQL microservice for managing university courses, lecture sections, time slots, prerequisites, and credit allocations.
+
+**Technologies:** Python, FastAPI, PostgreSQL, SQLAlchemy, Pydantic, Alembic, Docker, Kubernetes
+
+### [student-api](https://github.com/prospjx/student-api)
+**Student Profiles and Preferences Microservice**
+
+A FastAPI and PostgreSQL service that manages student academic records, enrolled credits, and personal routine preferences such as commute time, study hours, sleep schedules, and workout preferences.
+
+**Technologies:** Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, Kubernetes
+
+### [scheduler-api](https://github.com/prospjx/scheduler-api)
+**Scheduler Engine and Gateway Microservice**
+
+The central orchestration service for the Smart Course Scheduler platform. It generates optimized, conflict-free schedules and acts as a gateway to the Course API, Student API, and AI Assistant API.
+
+**Technologies:** Python, FastAPI, PostgreSQL, constraint-satisfaction scheduling, microservices, Docker, Kubernetes, Prometheus
+
+### [ai-assistant-api](https://github.com/prospjx/ai-assistant-api)
+**AI Assistant Microservice**
+
+An intelligent scheduling and advisory service powered by FastAPI and Google Gemini. It extracts timetable data from images, analyzes course schedules, and generates personalized weekly routines with a heuristic fallback for service outages.
+
+**Technologies:** Python, FastAPI, Google Gemini, multimodal AI, Pydantic, Docker, Kubernetes
+
+### [gitops](https://github.com/prospjx/gitops)
+**GitOps Continuous Delivery Platform**
+
+Declarative GitOps infrastructure for deploying and continuously reconciling the microservices on AWS EKS with ArgoCD. It includes Helm charts, Kubernetes manifests, autoscaling, pod disruption budgets, resource policies, and network policies for the Course, Student, Scheduler, AI Assistant, and PostgreSQL services.
+
+**Technologies:** GitOps, ArgoCD, AWS EKS, Kubernetes, Helm, Docker, Terraform, Prometheus
+
 ## Other Projects
 
 ### [TimelyDev](https://github.com/prospjx/TimelyDev)
@@ -38,11 +73,6 @@ A backend microservice project focused on PostgreSQL-driven application developm
 Timely turns natural-language tasks into actionable schedules. It includes an async FastAPI backend, Flutter frontend, MongoDB persistence, AI-assisted task parsing, voice brief generation, notifications, and a polished mobile-first experience.
 
 **Technologies:** Flutter, Dart, Python, FastAPI, MongoDB, Gemini, ElevenLabs, Firebase
-
-### [ai-assistant-api](https://github.com/prospjx/ai-assistant-api)
-A Python-based API project focused on building assistant and AI service functionality.
-
-**Technologies:** Python
 
 ### [amazingheartcentre](https://github.com/prospjx/amazingheartcentre)
 A web application for managing bookings and contact messages, using Supabase-backed data storage and email notifications through Edge Functions.
