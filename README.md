@@ -24,16 +24,18 @@ A practice project combining a FastAPI application with containerization and Dev
 **Technologies:** Python, FastAPI, Docker
 
 ### [postgres-microservice](https://github.com/prospjx/postgres-microservice)
-A backend microservice project centered around PostgreSQL-based application development and service architecture.
+**PostgreSQL-backed microservices project**
 
-**Technologies:** PostgreSQL, backend development, microservices
+A backend microservice project focused on PostgreSQL-driven application development, service-oriented architecture, and containerized deployment patterns.
+
+**Technologies:** PostgreSQL, backend development, microservices, Docker, service architecture
 
 ## Other Projects
 
 ### [TimelyDev](https://github.com/prospjx/TimelyDev)
 **AI-powered personal time assistant**
 
-Timely turns natural-language tasks into actionable schedules. It includes an async FastAPI backend, Flutter frontend, MongoDB persistence, AI-assisted task parsing, voice brief generation, notifications, and scheduling automation.
+Timely turns natural-language tasks into actionable schedules. It includes an async FastAPI backend, Flutter frontend, MongoDB persistence, AI-assisted task parsing, voice brief generation, notifications, and a polished mobile-first experience.
 
 **Technologies:** Flutter, Dart, Python, FastAPI, MongoDB, Gemini, ElevenLabs, Firebase
 
