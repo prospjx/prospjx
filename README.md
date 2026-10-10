@@ -1,6 +1,6 @@
-# Hi, I'm Prosper 👋
+# Hi, I'm prospjx 👋
 
-I'm a software engineer interested in building practical applications, backend systems, cloud infrastructure, DevOps workflows, and AI-powered tools.
+I'm a software developer interested in building practical applications, backend systems, cloud infrastructure, DevOps workflows, and AI-powered tools.
 
 I enjoy working across the stack—from designing APIs and databases to creating mobile experiences, automating deployments, and improving observability.
 
@@ -9,7 +9,7 @@ I enjoy working across the stack—from designing APIs and databases to creating
 ### [DevOps-Project](https://github.com/prospjx/DevOps-Project)
 **Production-style Task Management API**
 
-An end-to-end DevOps and cloud engineering project featuring a FastAPI REST API, PostgreSQL persistence, Docker Compose, Kubernetes manifests, Terraform infrastructure, Prometheus metrics, Grafana dashboards, automated tests, and GitHub Actions CI/CD.
+An end-to-end DevOps and cloud engineering project featuring a FastAPI REST API, PostgreSQL persistence, Docker Compose, Kubernetes manifests, Terraform infrastructure, Prometheus metrics, Grafana dashboards, and CI/CD automation.
 
 **Technologies:** Python, FastAPI, PostgreSQL, SQLAlchemy, Docker, Kubernetes, Terraform, Prometheus, Grafana, GitHub Actions
 
@@ -23,12 +23,17 @@ A practice project combining a FastAPI application with containerization and Dev
 
 **Technologies:** Python, FastAPI, Docker
 
+### [postgres-microservice](https://github.com/prospjx/postgres-microservice)
+A backend microservice project centered around PostgreSQL-based application development and service architecture.
+
+**Technologies:** PostgreSQL, backend development, microservices
+
 ## Other Projects
 
 ### [TimelyDev](https://github.com/prospjx/TimelyDev)
 **AI-powered personal time assistant**
 
-Timely turns natural-language tasks into actionable schedules. It includes an async FastAPI backend, Flutter frontend, MongoDB persistence, AI-assisted task parsing, voice brief generation, notifications, diagnostics logging, and a custom scheduling engine designed to balance priorities and avoid overload.
+Timely turns natural-language tasks into actionable schedules. It includes an async FastAPI backend, Flutter frontend, MongoDB persistence, AI-assisted task parsing, voice brief generation, notifications, and scheduling automation.
 
 **Technologies:** Flutter, Dart, Python, FastAPI, MongoDB, Gemini, ElevenLabs, Firebase
 
@@ -36,11 +41,6 @@ Timely turns natural-language tasks into actionable schedules. It includes an as
 A Python-based API project focused on building assistant and AI service functionality.
 
 **Technologies:** Python
-
-### [postgres-microservice](https://github.com/prospjx/postgres-microservice)
-A backend microservice project centered around PostgreSQL-based application development and service architecture.
-
-**Technologies:** PostgreSQL, backend development
 
 ### [amazingheartcentre](https://github.com/prospjx/amazingheartcentre)
 A web application for managing bookings and contact messages, using Supabase-backed data storage and email notifications through Edge Functions.
