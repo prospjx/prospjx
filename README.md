@@ -1,6 +1,6 @@
-# Hi, I'm prospjx 👋
+# Hi, I'm Prosper Olusegun-Joseph 👋
 
-I'm a software developer interested in building practical applications, backend systems, cloud infrastructure, DevOps workflows, and AI-powered tools.
+I'm a software engineer attending Georgia State University, interested in building practical applications, backend systems, cloud infrastructure, DevOps workflows, and AI-powered tools.
 
 I enjoy working across the stack—from designing APIs and databases to creating mobile experiences, automating deployments, and improving observability.
 
